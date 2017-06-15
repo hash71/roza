@@ -1,0 +1,83 @@
+/* Getting the new tags to behave */
+
+#content
+{
+	
+}
+
+.tab_content
+{
+	
+}
+/* tabs */
+ul.tabs
+{
+	position:absolute;
+	right:32px;
+	top:32px;
+}
+ul.tabs li
+{
+	float:left;
+	line-height:1.2em;
+	padding-left:10px;
+}
+ul.tabs li a
+{
+	color:#cecece;
+	display:block;
+	float:left;
+	text-decoration: none;
+	cursor:pointer;
+	transition: all 400ms;
+}
+ul.tabs li a:hover, ul.tabs li.active a
+{
+	color:#6d6d6d;
+}
+
+.tab_container {}
+/* faded gallery */
+.faded
+{
+	width:800px;
+	height:341px;	
+	position:absolute;
+	right: 25px;
+	top: 50%;
+	margin-top: -130px;
+}
+.faded ul.big-image
+{
+	list-style:none;
+	padding:0;
+	margin:0;
+	width:591px;
+	height:341px;
+	float:right;
+	background:url(../images/img-wrapper-big.png) no-repeat left top;
+}
+.faded ul.big-image li
+{
+	padding:9px 0 0 9px;
+	width:573px;
+	height:323px;
+}
+.faded ul.big-image li img
+{
+	width: 100%;
+	height: 100%;
+}
+.faded .pagination img
+{
+
+	transition: opacity 0ms;
+}
+.faded .pagination img:hover
+{
+	opacity: 0.7;
+}
+ul.pagination {list-style:none;padding:0;margin:0;background:none;width:auto;height:auto;position:absolute;left:0;top:0}
+ul.pagination li {width:183px;height:99px;margin-bottom:22px;background:url(../images/img-wrapper-small.png) no-repeat left top}
+ul.pagination li a {padding:9px;display:block}
+ul.pagination li.current a {}a {outline:0;border:0}

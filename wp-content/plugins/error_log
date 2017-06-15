@@ -1,0 +1,13 @@
+[31-May-2015 03:40:20] PHP Fatal error:  Call to undefined function  add_action() in /home2/diaryrpa/public_html/rozaproperties/wp-content/plugins/hello.php on line 60
+[22-Jun-2015 19:57:37 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/diaryrpa/public_html/rozaproperties/wp-content/plugins/hello.php on line 60
+[28-Jun-2015 09:10:07 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/diaryrpa/public_html/rozaproperties/wp-content/plugins/hello.php on line 60
+[19-Jul-2015 04:59:00 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/diaryrpa/public_html/rozaproperties/wp-content/plugins/hello.php on line 60
+[18-Aug-2015 01:26:44 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/diaryrpa/public_html/rozaproperties/wp-content/plugins/hello.php on line 60
+[24-Aug-2015 13:39:14 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/diaryrpa/public_html/rozaproperties/wp-content/plugins/hello.php on line 60
+[12-Oct-2015 09:56:47 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/diaryrpa/public_html/rozaproperties/wp-content/plugins/hello.php on line 60
+[21-Oct-2015 19:26:23 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/diaryrpa/public_html/rozaproperties/wp-content/plugins/hello.php on line 60
+[20-Feb-2016 08:12:25 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/diaryrpa/public_html/rozaproperties/wp-content/plugins/hello.php on line 60
+[14-Mar-2016 12:08:34 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/diaryrpa/public_html/rozaproperties/wp-content/plugins/hello.php on line 60
+[14-Mar-2016 12:08:41 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/diaryrpa/public_html/rozaproperties/wp-content/plugins/hello.php on line 60
+[28-Apr-2016 02:02:35] PHP Fatal error:  Call to undefined function  add_action() in /home2/diaryrpa/public_html/rozaproperties/wp-content/plugins/hello.php on line 60
+[30-Apr-2016 10:20:26] PHP Fatal error:  Call to undefined function  add_action() in /home2/diaryrpa/public_html/rozaproperties/wp-content/plugins/hello.php on line 60
